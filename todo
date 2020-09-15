@@ -1,0 +1,2 @@
+How to load images
+    Image.network('assets/images/testimage.png')
