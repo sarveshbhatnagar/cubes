@@ -10,6 +10,7 @@ class _AuthHomeState extends State<AuthHome> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      
       body: ListView(
         children: [
           SizedBox(
